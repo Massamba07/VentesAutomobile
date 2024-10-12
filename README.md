@@ -60,4 +60,5 @@ Voici un aperçu visuel de l'architecture du pipeline de données :
 
 1. **Cloner le projet** :
    ```bash
-   git clone https://github.com/username/repository.git
+   git clone https://github.com/massamba07/VentesAutomobile
+.git
